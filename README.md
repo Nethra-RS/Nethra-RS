@@ -1,23 +1,29 @@
 <!-- ================= HEADER BANNER ================= -->
+<p align="center">
+  <img src="2.png" width="100%" />
+</p>
 
-# 👋 Hi, I'm Nethra
+<h1 align="center">Hi, I'm Nethra 👋</h1>
 
-### Data Analyst | ML Engineer | Full-Stack Developer
+<h3 align="center">Data Analyst | ML Engineer | Business Analyst</h3>
 
-💡 Turning raw data into insights, dashboards, and real-world impact.
+<p align="center">
+Turning complex data into actionable insights, dashboards, and intelligent systems.
+</p>
 
----
 
 <!-- ================= BADGES ================= -->
 
 ## 🏆 Certifications & Badges
 
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazonaws)
-![SQL](https://img.shields.io/badge/SQL-LeetCode_50_Solved-blue?style=for-the-badge&logo=leetcode)
-![Python](https://img.shields.io/badge/Python-Data_Analytics-yellow?style=for-the-badge&logo=python)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-blue?style=for-the-badge&logo=tableau)
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/SQL-LeetCode_50_Solved-blue?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/Python-Data_Analytics-yellow?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Tableau-Dashboards-blue?style=for-the-badge&logo=tableau" />
+
+</p>
 
 <!-- ================= ABOUT ================= -->
 
@@ -46,79 +52,95 @@
 
 <!-- ================= FEATURED CASE STUDY ================= -->
 
-## 📊 ⭐ Featured Case Study
+## 📊 ⭐ Featured Projects
 
-### Retail Sales Analytics & Forecasting
 
-🧠 Built an end-to-end data pipeline for retail demand forecasting
+### 📊 Retail Sales Analytics & Forecasting (Flagship Project)
+End-to-end data pipeline for retail insights and demand forecasting.
 
-**What I did:**
-- Cleaned and analyzed 18,000+ records (SQL + Python)
-- Built forecasting model using Scikit-learn
-- Designed interactive Tableau dashboard
+- Built SQL-based data warehouse (18,000+ records)
+- Performed EDA using Python (Pandas, NumPy)
+- Developed forecasting model using moving averages
+- Designed interactive Tableau dashboard for business insights
+- Identified revenue drivers, regional trends, and seasonality patterns
 
-**Impact:**
-- 📉 Reduced stockouts from 42 → 31
-- 📈 Improved forecast accuracy vs baseline
-- 📊 Enabled data-driven inventory planning
+🔗 [View Project](https://github.com/Nethra-RS/Retail-Sales-Analytics)
 
-**Tech Stack:** SQL | Python | Tableau | ML
-
-🔗 *Repository: Retail-Sales-Analytics*
+**Tech Stack:** SQL | Python | Tableau | Data Analysis | Forecasting
 
 ---
 
-<!-- ================= PROJECTS GRID STYLE ================= -->
+### 🧠 Diabetic Retinopathy Detection (Deep Learning)
+Medical image classification using CNN-based deep learning model.
 
-## 🚀 Featured Projects
+- Built CNN/ResNet-based classification pipeline
+- Applied image preprocessing and augmentation
+- Evaluated model performance using accuracy metrics
 
-### 📊 Retail Sales Analytics & Forecasting
-End-to-end analytics + forecasting + dashboard  
-🔗 https://github.com/Nethra-RS/Retail-Sales-Analytics  
+🔗 [View Project](https://github.com/Nethra-RS/DR_Detection)
 
----
-
-### 🧠 Diabetic Retinopathy Detection
-Deep learning CNN for medical image classification  
-🔗 https://github.com/Nethra-RS/DR_Detection  
+**Tech Stack:** Python | TensorFlow/Keras | CNN | Deep Learning
 
 ---
 
-### 🏋️ Fitness Tracker App
-Full-stack health tracking system (React + APIs)  
-🔗 https://github.com/Nethra-RS/track_fit_fe  
+### 🏋️ Fitness Tracker App (Full Stack)
+Health tracking web application with real-time data visualization.
+
+- Built frontend using React/Next.js
+- Integrated APIs for fitness metrics (steps, calories, heart rate)
+- Designed dashboard for user health insights
+
+🔗 [View Project](https://github.com/Nethra-RS/track_fit_fe)
+
+**Tech Stack:** React | Next.js | APIs | JavaScript | UI Design
 
 ---
 
 ### 💰 Personal Finance Analyzer
-Financial insights + SQL + Python analysis  
-🔗 https://github.com/Nethra-RS/personal-finance-analyzer  
+Financial data analysis tool for expense tracking and insights.
+
+- Analyzed income & expense patterns using Python
+- Built SQL queries for structured financial insights
+- Created visual summaries for spending behavior
+
+🔗 [View Project](https://github.com/Nethra-RS/personal-finance-analyzer)
+
+**Tech Stack:** Python | SQL | Data Analysis | Visualization
 
 ---
 
 ### 📊 Sales Analysis Dashboard
-Business KPIs + reporting + SQL analytics  
-🔗 https://github.com/Nethra-RS/Sales_Analysis  
+Business intelligence dashboard for sales KPIs and reporting.
+
+- Built SQL-based analytical queries
+- Designed dashboards for KPI tracking
+- Performed business trend analysis
+
+🔗 [View Project](https://github.com/Nethra-RS/Sales_Analysis)
+
+**Tech Stack:** SQL | Power BI/Tableau | Data Visualization
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+### 🛍️ Student Swap Shop (Full Stack Marketplace)
+Student-focused exchange platform for buying/selling items.
 
-## 📈 GitHub Analytics
+- Built full-stack web application
+- Implemented authentication and product listing system
+- Designed responsive UI for users
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nethra-RS&show_icons=true&theme=tokyonight)
+🔗 [View Project](https://github.com/Nethra-RS/Student-swap-shop)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nethra-RS&layout=compact&theme=tokyonight)
+**Tech Stack:** Full Stack | Web Development | Database | UI/UX
 
----
 
 <!-- ================= CONNECT ================= -->
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: https://linkedin.com/in/your-link  
-📧 Email: your.email@gmail.com  
+💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/n-renjarla-920b3a197/)  
+📧 Email: nethrarenjarla@gmail.com  
 
 ---
 
-⭐ *"Data tells stories — I build the tools to understand them."*
+⭐ "I turn data into decisions, and decisions into measurable impact."
