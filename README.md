@@ -138,7 +138,7 @@ Student-focused exchange platform for buying/selling items.
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/n-renjarla-920b3a197/)  
+💼 LinkedIn: [[https://linkedin.com/in/your-link](https://www.linkedin.com/in/n-renjarla-920b3a197/)](https://www.linkedin.com/in/n-renjarla-920b3a197/)  
 📧 Email: nethrarenjarla@gmail.com  
 
 ---
